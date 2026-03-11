@@ -34,7 +34,7 @@ local MainTab = MS:CreateTab({
 }, "TAB_MAIN")
 
 local Modes = MS:CreateTab({
-    Name = "Gamemodes",
+    Name = "Modes",
     Icon = NebulaIcons:GetIcon('castle', 'Symbols'),
     Columns = 2,
 }, "TAB_GM")
